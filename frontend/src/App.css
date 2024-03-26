@@ -1,0 +1,195 @@
+body{
+  background-image: url(./compo/img/bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+Nav{
+  text-align: end;
+
+}
+.or{
+  margin-left: 50%;
+}
+.log{
+  margin-left: 80px;
+
+}
+.signup{
+  margin-left: 140px;
+  margin-top: 15px;
+}
+.signup button{
+  border-radius: 10px;
+  background-color: rgb(36, 116, 202);
+  color: white;
+  width: 160px;
+}
+.left{
+  float: left;
+  margin-top: 100px;
+}
+.right{
+  width: 50%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.right-outside{
+  border: 1px solid black;
+  border-radius: 15px;
+  height: 500px;
+  width: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 1px 5px 20px black;
+
+}
+.para{
+  margin-left: 30px;
+}
+.right h1{
+  margin-left: 130px;
+  margin-bottom: 10px;
+}
+
+.right input{
+  border-radius: 10px;
+  width: 250px;
+  height: 40px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  margin: 2px 0px;
+
+}
+table{
+  margin-left: 30px;
+}
+p a{
+  text-decoration: none;
+  color: white;
+}
+
+
+
+
+
+
+
+
+.log1{
+  margin-left: 50px;
+
+}
+.signup1{
+  margin-left: 100px;
+  margin-top: 20px;
+}
+.signup1 button{
+  border-radius: 10px;
+  background-color: rgb(36, 116, 202);
+  color: white;
+  width: 160px;
+}
+
+.right1{
+  width: 50%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.right-outside1{
+  border: 1px solid black;
+  border-radius: 15px;
+  height: 500px;
+  width: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  backdrop-filter: blur(50px);
+  box-shadow: 1px 5px 20px black;
+  
+}
+.right1 h1{
+  margin-left: 100px;
+  margin-bottom: 20px;
+}
+
+.right1 input{
+  border-radius: 15px;
+  width: 250px;
+  height: 40px;
+  background-color: rgb(255, 255, 255);
+  margin: 2px 0px;
+}
+
+p a{
+  text-decoration: none;
+  color: white;
+}
+.rend{
+  margin-left: 20px;
+}
+
+.left1 img{
+  height: 650px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.left1{
+  float: right;
+  margin-top: 10px;
+}
+::placeholder {
+  color: rgb(6, 27, 31);
+}
+
+#phone::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0;
+}
+
+
+
+
+
+
+
+
+/* 
+:focus{outline: none;}
+
+/* necessary to give position: relative to parent. */
+/* input[type="text"]{font: 15px/24px 'Muli', sans-serif; color: #333; width: 100%; box-sizing: border-box; letter-spacing: 1px;}
+
+:focus{outline: none;}
+
+.col-3{float: left; width: 27.33%; margin: 40px 3%; position: relative;} /* necessary to give position: relative to parent. */
+/* input[type="text"]{font: 15px/24px "Lato", Arial, sans-serif; color: #333; width: 100%; box-sizing: border-box; letter-spacing: 1px;} */ 
+ 
+
+
+
+/* .effect-1{border: 0; padding: 7px 0; border-bottom: 1px solid #ccc;}
+
+.effect-1 ~ .focus-border{position: absolute; bottom: 0; left: 0; width: 0; height: 2px; background-color: #4caf50; transition: 0.4s;}
+.effect-1:focus ~ .focus-border{width: 100%; transition: 0.4s;}
+
+
+
+
+
+<div class="col-3">
+            <input class="effect-1" type="text" placeholder="Placeholder Text">
+              <span class="focus-border"></span>
+</div> */
